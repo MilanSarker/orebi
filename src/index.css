@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .commonStyle {
+    @apply font-normal font-dm text-base;
+  }
+}
